@@ -1,0 +1,2 @@
+# EcoPulse-Multi-Task-Spatial-CNN-for-Spatiotemporal-Environmental-Health-Forecasting
+EcoPulse is an enterprise-grade multi-task spatial CNN pipeline built in PyTorch to forecast respiratory, cardiovascular, and metabolic clinical risks simultaneously by combining longitudinal data with hyper-local spatiotemporal environmental feeds. Includes INT8 weight quantization for resource-constrained embedded edge hardware.
